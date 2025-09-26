@@ -41,14 +41,18 @@ requests
    ```  
 
 ### Visuals
-- Main Window
+- **Main Window**
+
 ![Main Screen](https://i.imgur.com/GCLgOO1.png)
 
-- Game Configuration
+- **Game Configuration**
+
 ![Game Configuration](https://i.imgur.com/tK1Pwzt.png)
 
-- Pinned Transparent Window
+- **Pinned Transparent Window**
+
 ![Transparency/Pinned Window](https://i.imgur.com/uxIogzn.png)
 
-- Themes
+- **Themes**
+
 ![Themes](https://i.imgur.com/HbMaZHh.png)
