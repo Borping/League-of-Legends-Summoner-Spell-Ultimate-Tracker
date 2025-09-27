@@ -26,6 +26,7 @@ requests
 1. Download ```summoner_tracker.py```:
 - Open the file and click Raw → Save As...
 - Or run:
+  
    ```sh
    curl.exe -L -o "summoner_tracker.py" "https://raw.githubusercontent.com/Borping/League-of-Legends-Summoner-Spell-Ultimate-Tracker/main/summoner_tracker.py"
    ```  
